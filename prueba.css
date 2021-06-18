@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-family: sans-serif;
+	text-align: center;
+	margin-top: 300px;
+	font-size: 300%;
+	font-weight: 1000;
+	color: transparent;
+	background-image: url(https://media.giphy.com/media/xT8qBfjJhOmNPTVWU0/giphy.gif);
+	background-position: center;
+	-webkit-background-clip: text;
+
+}
