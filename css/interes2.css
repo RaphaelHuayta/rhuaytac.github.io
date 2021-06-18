@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	display-content: flex-end;
+	justify-content: cursive;
+	font-family: cursive;
+}
+
+video{
+	position: fixed;
+
+	min-width: 100%;
+	min-height: 100%;
+
+	top: 50%;
+	left: 50%;
+
+	transform: translateX(-50%) translateY(-50%);
+
+	z-index: -1;
+
+	-webkit-filter: sepia(100%);
+}
+
+main{
+	width: 40%;
+	text-align: center;
+	text-decoration: 0;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	padding: 20%;
+	margin: 10%;
+}
